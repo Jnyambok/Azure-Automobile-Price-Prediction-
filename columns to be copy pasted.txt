@@ -1,0 +1,7 @@
+-clean columns in dataset - bore ,stroke , horsepower 
+-normalize data - transformation method [minmax] the columns are - symboling, wheel-base, length, width, height, curb-weight, engine-size, bore, stroke, compression-ratio, horsepower, peak-rpm, city-mpg, highway-mpg
+
+
+
+
+categorical data - make, fuel-type, aspiration, num-of-doors, body-style, drive-wheels, engine-location, engine-type, num-of-cylinders, fuel-system
